@@ -223,6 +223,10 @@ eth-utils==1.10.0
     #   raiden-contracts
     #   rlp
     #   web3
+exceptiongroup==1.0.0rc8
+    # via
+    #   -r requirements-dev.txt
+    #   hypothesis
 execnet==1.6.0
     # via
     #   -r requirements-dev.txt
@@ -300,7 +304,7 @@ hyperlink==21.0.0
     #   -r requirements-dev.txt
     #   treq
     #   twisted
-hypothesis==6.24.2
+hypothesis==6.49.1
     # via -r requirements-dev.txt
 idna==2.8
     # via
