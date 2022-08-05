@@ -707,7 +707,7 @@ stack-data==0.2.0
     # via
     #   -r requirements-dev.txt
     #   ipython
-structlog==21.2.0
+structlog==22.1.0
     # via -r requirements-dev.txt
 threadloop==1.0.2
     # via
