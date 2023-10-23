@@ -276,7 +276,7 @@ idna==2.8
     #   requests
     #   twisted
     #   yarl
-importlib-metadata==4.2.0
+importlib-metadata==6.8.0
     # via
     #   -r requirements-dev.in
     #   pluggy
@@ -620,8 +620,6 @@ toml==0.10.2
     #   pep517
     #   pylint
     #   pytest
-tomli==2.0.1
-    # via black
 toolz==0.9.0
     # via
     #   -r requirements.txt
