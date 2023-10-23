@@ -310,7 +310,7 @@ idna==2.8
     #   requests
     #   twisted
     #   yarl
-importlib-metadata==4.2.0
+importlib-metadata==6.8.0
     # via
     #   -r requirements-dev.txt
     #   pluggy
@@ -559,7 +559,7 @@ pygments==2.7.4
     #   ipython
     #   pdbpp
     #   readme-renderer
-pyinstaller==5.0
+pyinstaller==4.5.1
     # via -r requirements-ci.in
 pyinstaller-hooks-contrib==2020.7
     # via pyinstaller
@@ -724,10 +724,6 @@ toml==0.10.2
     #   pep517
     #   pylint
     #   pytest
-tomli==2.0.1
-    # via
-    #   -r requirements-dev.txt
-    #   black
 toolz==0.9.0
     # via
     #   -r requirements-dev.txt
