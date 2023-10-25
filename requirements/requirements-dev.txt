@@ -266,7 +266,7 @@ hyperlink==21.0.0
     # via
     #   treq
     #   twisted
-hypothesis==6.24.2
+hypothesis==6.88.1
     # via -r requirements-dev.in
 idna==2.8
     # via
@@ -620,8 +620,6 @@ toml==0.10.2
     #   pep517
     #   pylint
     #   pytest
-tomli==2.0.1
-    # via black
 toolz==0.9.0
     # via
     #   -r requirements.txt

@@ -300,7 +300,7 @@ hyperlink==21.0.0
     #   -r requirements-dev.txt
     #   treq
     #   twisted
-hypothesis==6.24.2
+hypothesis==6.88.1
     # via -r requirements-dev.txt
 idna==2.8
     # via
@@ -559,7 +559,7 @@ pygments==2.7.4
     #   ipython
     #   pdbpp
     #   readme-renderer
-pyinstaller==5.0
+pyinstaller==4.5.1
     # via -r requirements-ci.in
 pyinstaller-hooks-contrib==2020.7
     # via pyinstaller
@@ -724,10 +724,6 @@ toml==0.10.2
     #   pep517
     #   pylint
     #   pytest
-tomli==2.0.1
-    # via
-    #   -r requirements-dev.txt
-    #   black
 toolz==0.9.0
     # via
     #   -r requirements-dev.txt
